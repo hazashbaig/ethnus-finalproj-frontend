@@ -1,0 +1,43 @@
+.content {
+  display: flex;
+  margin:0;
+}
+
+.heading {
+  font-size: 50px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.description {
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: rgb(155, 155, 155);
+  text-align: left;
+  width: calc(80% - 10px);
+}
+
+.left-part {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.container {
+  margin-left: 60px;
+}
+
+.right-part {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.right-part img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,12 @@
+.right-part {
+  position: relative;
+}
+
+.right-part img {
+    position: relative;
+}
+
+.login {
+    position: absolute;
+}
+
