@@ -5,9 +5,8 @@
     max-height: 100vh;
   }
 
-
   .image-container {
-    /* margin: 40px; */
+    margin: 40px;
     display: inline-block;
     position: relative;
   }
